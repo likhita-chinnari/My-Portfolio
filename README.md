@@ -30,7 +30,7 @@ Crafted with a focus on clean UI/UX, responsive design, and dynamic content deli
 ---
 
 ## Screenshots  
-![Portfolio Preview](https://link-to-screenshot-image.com)  
+![Portfolio Preview](Attach Screenshots)  
 
 ---
 
